@@ -43,5 +43,8 @@ while (true)
             numberOfPeopleInList = 0;
         }
     }
-    else if (choice == 'a') Environment.Exit(0);
+    else if (choice == 'a') 
+    {
+        Environment.Exit(0);
+    }
 }
